@@ -1,0 +1,105 @@
+.heading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 40px auto 0px auto;
+}
+
+.heading-title {
+  background-color: #fff4f1;
+  color: #441d81;
+  font-family: Bebas Neue;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28.8px;
+  letter-spacing: 0.03em;
+  margin: 0 auto -35px auto;
+  width: 160px;
+  z-index: 1;
+}
+
+.shoes {
+  width: 70px;
+}
+
+.line {
+  background-color: #441d81;
+  height: 1.5px;
+  width: 350px;
+  margin: 20px auto;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-title {
+  color: #441d81;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.08px;
+  letter-spacing: 0.03em;
+  background-color: #fff4f1;
+  text-align: left;
+  margin-left: 10px;
+  padding-left: 5px;
+  margin-bottom: -8px;
+  margin-top: 10px;
+  z-index: 1;
+}
+
+.date-title {
+  width: 40px;
+}
+
+.date-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.time-title {
+  width: 40px;
+}
+
+.time-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.people-title {
+  width: 200px;
+}
+
+.lanes-title {
+  width: 130px;
+}
+
+.shoe-title {
+  width: 150px;
+}
+
+.input {
+  border: 1.5px solid #441d81;
+  border-radius: 3px;
+  color: #222222;
+  font-family: Work Sans;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  font-size: 16px;
+  background-color: #fff4f1;
+  height: 40px;
+  width: 328px;
+  padding: 0px 10px;
+}
+
+.date-time-container {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.date-time {
+  width: 140px;
+}

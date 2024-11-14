@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -20px;
+}
+
+.nav-icon {
+    position: absolute;
+    top: 25px;
+    left: 450px;
+    cursor: pointer;
+    z-index: 99;
+}
+
+
+.menu {
+    position: absolute;
+    height: 840px;
+    width: 390px;
+    background-color: #2e0a12;
+    top: 8px;
+    left: 433px;
+    z-index: 98;
+    border-radius: 15px;
+}
+
+.menu-container {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 50px;
+}
+
+a {
+    color: #EC315A;
+    font-family: Bebas Neue;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 57.6px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    cursor: pointer;
+}

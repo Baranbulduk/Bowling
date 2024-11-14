@@ -1,0 +1,52 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+}
+
+.app {
+  background-color: #fff4f1;
+  box-shadow: 10px 10px 10px #00000040;
+  border-radius: 15px;
+  margin: 0 auto;
+  padding: 20px;
+  height: 800px;
+  width: 350px;
+  text-align: center;
+  overflow: auto;
+}
+
+.logo-small {
+  height: 110px;
+  width: 76px;
+  margin: 20px auto 5px auto;
+}
+
+h2 {
+  font-family: Bebas Neue;
+  color: #ec315a;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 72px;
+  letter-spacing: 0.03em;
+  margin: 0 auto;
+}
+
+.button {
+  background-color: #ec315a;
+  padding: 20px 105px;
+  border-radius: 5px;
+  border: none;
+  font-family: Work Sans;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.15px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  margin: 20px auto 0 auto;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #c5294b;
+}

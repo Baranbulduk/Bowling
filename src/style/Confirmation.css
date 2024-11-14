@@ -1,0 +1,89 @@
+.confirmation-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.confirmation-title {
+  color: #441d81;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.08px;
+  letter-spacing: 0.03em;
+  background-color: #fff4f1;
+  text-align: left;
+  margin-left: 10px;
+  padding-left: 5px;
+  margin-bottom: -25px;
+  margin-top: 10px;
+  width: 328px;
+  z-index: 1;
+}
+
+.confirmation-when {
+  width: 42px;
+}
+
+.confirmation-who {
+  width: 35px;
+}
+
+.confirmation-lanes {
+  width: 45px;
+}
+
+.confirmation-booking-number {
+  width: 120px;
+}
+
+.confirmation-input {
+  border: 1.5px solid #441d81;
+  border-radius: 3px;
+  color: #222222;
+  font-family: Work Sans;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  font-size: 16px;
+  height: 40px;
+  width: 328px;
+  padding: 0px 10px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+}
+
+.totalprice-container {
+  border: 1.5px solid #ec315a;
+  margin-top: 120px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  height: 50px;
+}
+
+.totalprice-title {
+  font-family: Work Sans;
+  color: #ec315a;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28.15px;
+  letter-spacing: 0.03em;
+}
+
+.totalprice {
+  font-family: Work Sans;
+  color: #ec315a;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28.15px;
+  letter-spacing: 0.03em;
+}
+
+.button-padding {
+  padding: 20px 65px;
+}
