@@ -1,5 +1,5 @@
 import { useState } from "react";
-import NavIcon from "../assets/Navicon.png";
+import NavIcon from "../assets/navicon.png";
 import "./NavBar.css"
 
 const NavBar: React.FC = () => {
