@@ -1,6 +1,6 @@
 import NavBar from "../components/NavBar.tsx";
 import "../style/Home.css";
-import Logo from "../assets/Logo.png";
+import Logo from "../assets/logo.png";
 import "../style/Confirmation.css";
 
 import { useLocation } from "react-router-dom";

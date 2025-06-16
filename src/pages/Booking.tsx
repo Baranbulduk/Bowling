@@ -1,6 +1,6 @@
 import NavBar from "../components/NavBar.tsx";
 import "../style/Home.css";
-import Logo from "../assets/Logo.png";
+import Logo from "../assets/logo.png";
 import "../style/Booking.css";
 
 import React, { useState } from "react";
